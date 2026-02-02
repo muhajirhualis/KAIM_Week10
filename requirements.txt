@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl  # for Excel if needed
+requests
