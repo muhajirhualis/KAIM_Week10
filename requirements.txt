@@ -4,3 +4,5 @@ matplotlib
 seaborn
 openpyxl  # for Excel if needed
 requests
+scipy
+streamlit
